@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#check:checked ~ ul{
+    left: 0;
+}
